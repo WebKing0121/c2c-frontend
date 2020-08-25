@@ -52,7 +52,7 @@
     "fullcalendar": "^3.10.2",
     "gojs": "^2.1.19",
     "gojs-angular": "^1.0.3",
-    "highcharts": "^6.2.0",
+    "highcharts": "^7.2.2",
     "jquery": "^3.4.1",
     "jspdf": "^1.5.3",
     "jszip": "^3.2.2",
